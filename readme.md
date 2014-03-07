@@ -8,7 +8,7 @@ This hammock plugin is post wiki update to slack channel. (private group does no
 
 - [Slack](https://slack.com) account
 - [Github](https://github.com) account
-- [hammock](https://github.com/tinyspeck/hammock/
+- [hammock](https://github.com/tinyspeck/hammock/)
 
 ## License
 
